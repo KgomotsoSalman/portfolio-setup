@@ -40,7 +40,7 @@ p {
 .portfolio {
     background-color: var(--secondary-color);
     text-align: center;
-    padding: 160px 20px;
+    padding: 100px 20px;
 }
 
 .portfolio h2 {
@@ -56,7 +56,7 @@ p {
 }
 
 .content-container {
-    padding: 160px 20px;
+    padding: 60px 20px;
 }
 
 .content h1 {
